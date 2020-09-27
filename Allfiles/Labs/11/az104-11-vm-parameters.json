@@ -3,10 +3,10 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "adminUsername": {
-            "value": "Student"
+            "value": "derek"
         },
         "adminPassword": {
-            "value": "Pa55w.rd1234"
+            "value": "P0rthos1701!!"
         },
         "vmNamePrefix": {
             "value": "az104-11-vm"
